@@ -11,5 +11,10 @@
       ]
     }
   ],
-  "references": []
+  "references": [
+    {
+      "name": "API",
+      "path": "https://spec.speakeasy.com/polar/polar/polar-oas-with-code-samples"
+    }
+  ]
 }
