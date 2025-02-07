@@ -1,0 +1,14 @@
+{
+  "guides": [
+    {
+      "name": "My awesome documentation",
+      "sidebar": [
+        {
+          "path": "docs/index.md",
+          "type": "page"
+        }
+      ]
+    }
+  ],
+  "references": []
+}
